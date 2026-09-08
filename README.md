@@ -18,4 +18,4 @@
 + a
 + x
 + d
-(abv)[google.com]
+[google.com](abv)
